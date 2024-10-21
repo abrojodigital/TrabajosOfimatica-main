@@ -1,0 +1,6 @@
+Puesto; Hombres; Mujeres 
+Directivos; 46,624; 32,743
+Empleado; 18,423; 16,478
+Mandos intermedios; 30,571; 26,766
+Técnicos; 24,918; 23,182
+Total; 25,044; 21,229

@@ -1,0 +1,8 @@
+Sin estudios; 17562,5
+Educación secundaria obligatoria, graduado escolar o equivalente; 16523,78
+Ciclo formativo de Grado Medio (FP) o equivalente; 18703,51
+Bachillerato o equivalente; 18583,07
+Ciclo formativo de Grado Superior (FP) o equivalente; 21496,19
+Licenciatura/Diplomatura/Grado; 25445,43
+Doctorado; 27386,29
+Máster o posgrado; 29706,5

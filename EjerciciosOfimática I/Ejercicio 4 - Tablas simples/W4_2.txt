@@ -1,0 +1,14 @@
+Tasa de paro en España por grupos de edad
+Año; Periodo; Grupo edad; Tasa de paro
+2019; Trimestre 3; De 16 a 19 años; 42,14
+2019; Trimestre 3; De 20 a 24 años; 29,28
+2019; Trimestre 3; De 25 a 29 años; 18,75
+2019; Trimestre 3; De 30 a 34 años; 14,2
+2019; Trimestre 3; De 35 a 39 años; 10,94
+2019; Trimestre 3; De 40 a 44 años; 11,63
+2019; Trimestre 3; De 45 a 49 años; 11,11
+2019; Trimestre 3; De 50 a 54 años; 12,15
+2019; Trimestre 3; De 55 a 59 años; 12,27
+2019; Trimestre 3; De 60 a 64 años; 12,15
+2019; Trimestre 3; De 65 a 69 años; 5,63
+2019; Trimestre 3; De 70 y más años; 1,79

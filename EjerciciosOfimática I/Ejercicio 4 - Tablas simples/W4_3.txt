@@ -1,0 +1,18 @@
+Paro por sexos en Asturias
+Año; Periodo; Hombres; Mujeres
+2015; Trimestre 4; 21; 19,58
+2016; Trimestre 1; 20,08; 18,88
+2016; Trimestre 2; 21,32; 17,11
+2016; Trimestre 3; 18,89; 15,07
+2016; Trimestre 4; 14,97; 14,2
+2017; Trimestre 1; 13,8; 14,7
+2017; Trimestre 2; 12,28; 13,82
+2017; Trimestre 3; 13,95; 11,87
+2017; Trimestre 4; 13,98; 15,33
+2018; Trimestre 1; 14,07; 16,04
+2018; Trimestre 2; 10,84; 15,49
+2018; Trimestre 3; 13,04; 13,89
+2018; Trimestre 4; 11,52; 14,23
+2019; Trimestre 1; 13,99; 16,15
+2019; Trimestre 2; 12,36; 16,05
+2019; Trimestre 3; 14,16; 14,71

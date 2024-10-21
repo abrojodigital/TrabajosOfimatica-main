@@ -1,0 +1,7 @@
+Analfabetos; 33,3
+Estudios primarios incompletos; 188,4
+Educación primaria; 932,8
+Primera etapa de Educación Secundaria y similar; 5.338,7
+Segunda etapa de educación secundaria, con orientación general; 2.657,7
+Segunda etapa de educación secundaria con orientación profesional (incluye edu. postsecundaria no superior); 1.935,9
+Educación Superior; 8.257,3

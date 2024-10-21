@@ -1,0 +1,59 @@
+Rama; Grado; Precio; Localidad; N corte; Plazas ; Peticiones
+Artes y humanidades; Estudios clásicos y románicos; 1068,54; Oviedo; 5,158; 25; 73
+; Estudios Ingleses; 1068,54; Oviedo; 5,148; 130; 351
+; Filosofía; 759,54; Oviedo; 6,983; 50; 232
+; Geografía y ordenación del territorio; 759,54; Oviedo; 5,618; 30; 69
+; Historia; 759,54; Oviedo; 5,044; 100; 291
+; Historia del arte; 759,54; Oviedo; 6,38; 60; 224
+; Historia y ciencias de la música; 759,54; Oviedo; 5,15; 40; 92
+; Lengua española y sus literaturas; 1068,54; Oviedo; 5,474; 80; 183
+; Lenguas modernas y sus literaturas; 1068,54; Oviedo; 5,444; 130; 227
+Ciencias; Biología; 1068,54; Oviedo; 8,448; 110; 823
+; Biotecnología; 1068,54; Oviedo; 12,54; 47; 751
+; Doble grado en Matemáticas y Física; 1068,54; Oviedo; 12,685; 60; 334
+; Física; 1068,54; Oviedo; 11,961; 115; 495
+; Geología; 1068,54; Oviedo; 5,464; 50; 105
+; Matemáticas; 1068,54; Oviedo; 12,218; 95; 618
+; Química; 1068,54; Oviedo; 9,853; 90; 500
+Ciencias de la salud; Enfermería; 1354,74; Oviedo; 12,089; 100; 1498
+; Enfermería; 1354,74; Gijón; 11,536; 70; 1157
+; Fisioterapia; 1354,74; Oviedo; 11,53; 60; 970
+; Logopedia; 1354,74; Oviedo; 9,637; 30; 378
+; Medicina; 1354,74; Oviedo; 12,79; 150; 2844
+; Odontología; 1354,74; Oviedo; 12,5; 25; 795
+; Psicología; 1354,74; Oviedo; 10,18; 120; 1019
+; Terapia ocupacional; Consultar; Oviedo; 7,614; 60; 191
+Ciencias sociales y jurídicas; Administración y dirección de empresas; 1068,54; Oviedo; 5,000; 395; 884
+; Comercio y marketing; 1068,54; Gijón; 5,026; 200; 695
+; Contabilidad y finanzas; 1068,54; Oviedo; 5,03; 100; 383
+; Derecho; 1068,54; Oviedo; 5,078; 350; 620
+; Doble grado ADE y Derecho; 1068,54; Oviedo; 10,076; 120; 343
+; Economía; 1068,54; Oviedo; 5,232; 125; 591
+; Educación social; Consultar; Oviedo; 5,002; 40; 115
+; Gestión y administración publica ; 1068,54; Gijón; 5,4; 40; 70
+; Maestro en educación infantil; 1068,54; Oviedo; 7,022; 140; 688
+; Maestro en educación infantil; Consultar; Oviedo; 5,352; 40; 172
+; Maestro en educación primaria; 1068,54; Oviedo; 7,9; 219; 903
+; Maestro en educación primaria; Consultar; Oviedo; 5,148; 40; 172
+; Pedagogía; 1068,54; Oviedo; 5,296; 100; 386
+; Relaciones laborales y RR HH; 1068,54; Oviedo; 5,06; 90; 331
+; Trabajo social; 1068,54; Gijón; 5,496; 100; 429
+; Turismo; 1068,54; Gijón; 5,142; 100; 346
+ingeniería y arquitectura; Doble grado en Ing civil e Ing de los rec. mineros y energéticos; 1068,54; Mieres; 5,582; 60; 104
+; Ingeniería civil; 1068,54; Mieres; 5,052; 80; 233
+; Ing. De organización industrial; 1068,54; Gijón; 9,058; 60; 331
+; Ingeniería eléctrica; 1068,54; Gijón; 5,058; 80; 310
+; Ing. electrónica industrial y automática; 1068,54; Gijón; 5,374; 110; 367
+; Ingeniería forestal y del medio natural; 1068,54; Mieres; 5,8; 60; 148
+; Ingeniería en geomática; 1068,54; Mieres; 6,008; 40; 67
+; Ingeniería informática del software; 1068,54; Oviedo; 8,4; 150; 626
+; Ing. Informática en tecn. de la información; 1068,54; Gijón; 6,728; 115; 485
+; Ingeniería mecánica; 1068,54; Gijón; 5,25; 240; 459
+; Ingeniería química; 1068,54; Oviedo; 6,574; 50; 268
+; Ingeniería química industrial; 1068,54; Gijón; 5,334; 60; 174
+; Ingeniería de los recursos mineros y energéticos; 1068,54; Mieres73; 5,582; 60; 104
+; Ingeniería en tecnologías industriales; 1068,54; Gijón; 5,25; 145; 392
+; Ingeniería en tecnologías mineras; 1068,54; Oviedo; 6,316; 45; 116
+; Ing. en tecn. y servicios de teleco.; 1068,54; Gijón; 5; 110; 412
+; Marina; 1068,54; Gijón; 5,034; 35; 132
+; Náutica y transporte marino; 1068,54; Gijón; 5,01; 35; 99
